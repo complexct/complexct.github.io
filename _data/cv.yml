@@ -6,8 +6,8 @@ cv:
  # image: ""
   summary: "Ph.D. candidate in the Carini Lab at the University of Arizona, studying the ecology and physiology of Asgard archaea in coastal sediments."
 
-  social_networks: []
-   - network: LinkedIn
+  social_networks:
+    - network: LinkedIn
       username: caitlin-tribelhorn
   #  - network: GitHub
   #    username: your-username
