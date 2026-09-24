@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: Caitlin Tribelhorn
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. PhD Candidate
 
 profile:
   align: right
   image: prof_pic2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>University of Arizona</p>
+    <p>Office, University of Arizona</p>
     <p>Tucson, Arizona 85719</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,4 +28,4 @@ latest_posts:
 
 Hello. I'm a fourth year PhD candidate studying microbial ecology and evolution. 
 
-Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/).
+Description. Link to your favorite [subreddit](https://www.reddit.com). 
